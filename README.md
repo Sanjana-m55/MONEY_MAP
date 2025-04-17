@@ -133,10 +133,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - [Sanjana M](https://github.com/Sanjana-m55)
 
-## 📞 Contact
-
-If you have any questions or feedback, please open an issue or contact us at sanjanamahanthesh@gmail.com
-
----
 
 <p align="center">Made with ❤️ for financial freedom</p>
