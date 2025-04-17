@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "../tourism_agent_planner"
+		},
+		{
+			"path": "../chatbot"
+		},
+		{
+			"path": "../India_safety_map"
+		},
+		{
+			"path": "../finance_analyzer"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
